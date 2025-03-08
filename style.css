@@ -29,3 +29,10 @@ td:hover{
 a:hover{
     color: white;
 }
+
+#unUsed{
+    background-color: darkblue;
+}
+#unUsed:hover{
+    color: black;
+}
